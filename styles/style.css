@@ -1,0 +1,26 @@
+* {
+    background-color: violet;
+}
+div {
+    background-color: aquamarine;
+}
+
+.card {
+    background-color: brown;
+}
+
+.card1 {
+    color: aliceblue;
+}
+
+.card2 {
+    color: blue;
+}
+
+#eliminar {
+    background-color: red;
+}
+
+a[href="https://platzi.com"] {
+    background-color: yellow;
+}
