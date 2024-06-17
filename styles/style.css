@@ -24,3 +24,19 @@ div {
 a[href="https://platzi.com"] {
     background-color: yellow;
 }
+
+.container {
+    color: red;
+}
+
+.contaner-p {
+    color: blue;
+}
+
+.div-two {
+    color: yellow;
+}
+
+.div-hermano {
+    color: green;
+  }
