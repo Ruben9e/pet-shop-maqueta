@@ -1,0 +1,18 @@
+
+
+.content-header {
+    border-bottom: 2px solid #00F;
+}
+
+.content-header-two {
+    border: 2px solid #AAA;
+}
+
+.content-list {
+    border-top: 4px dashed #F00;
+    border-bottom: 4px dashed #F00; 
+}
+
+.content-list-two {
+    border: 2px dashed #0f0;
+}
