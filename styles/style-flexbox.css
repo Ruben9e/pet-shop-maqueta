@@ -1,0 +1,13 @@
+.wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 5px;
+    font-family: 'Lato', sans-serif;
+    width: 550px;
+}
+
+.container {
+    background: turquoise;
+    width: 180px;
+    height: 180px;
+}
